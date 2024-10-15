@@ -21,7 +21,7 @@ future: true
 
 # jekyll-seo-tag 设置 › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Olimi       # 主标题
+title: 常青       # 主标题
 
 tagline: 来者是客   # 副标题
 
